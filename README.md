@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/patel-vansh1607](https://github.com/patel-vansh1607)
 
-- 📫 How to reach me **vanshpatell@proton.me**
+- 📫 How to reach me **pvansh830@gmail.com**
 
 - ⚡ Fun fact **I love sleeping**
 
