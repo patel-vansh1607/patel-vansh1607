@@ -10,6 +10,10 @@
 
 - ⚡ Fun fact **I love sleeping**
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=;Full-Stack+Developer;Graphic+Designer; Photographer; Videographer Video+Editor;" alt="Typing SVG" />
+
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/vannshh.patell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vannshh.patell" height="30" width="40" /></a>
