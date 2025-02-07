@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vansh Patel</h1>
 <h3 align="center">A passionate coder, graphic designer, photographer, videographer and a video editor</h3>
 
-- 🌱 I’m currently learning **html, css, js**
+- 🌱 I’m currently learning **html, css, js, react**
 
 - 👨‍💻 All of my projects are available at [https://github.com/patel-vansh1607](https://github.com/patel-vansh1607)
 
