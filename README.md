@@ -20,9 +20,36 @@
 <a href="https://www.leetcode.com/vanshhhhh789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vanshhhhh789" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🏆 Projects  
+Below are all my amazing projects that I have done so far. <br>
+<sub>_Updated as of 25th March 2025_</sub>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patel-vansh1607&show_icons=true&locale=en&layout=compact" alt="patel-vansh1607" /></p>
+🔹 **Appointment Management System** - [Project Link](https://github.com/patel-vansh1607/appointment-management-system)  ![In Progress](https://img.shields.io/badge/In%20Progress-FFA500?style=flat-square&color=FFA500) <br>
+🔹 **QR Code Generator** - [Project Link](https://github.com/patel-vansh1607/qr-code-generator)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹 **Language Translator** - [Project Link](https://github.com/patel-vansh1607/language-translator)  ![In Progress](https://img.shields.io/badge/In%20Progress-FFA500?style=flat-square&color=FFA500) <br>
+🔹 **Jokes Generator** - [Project Link]((https://github.com/patel-vansh1607/jokes_generator))  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹 **AI Chatbot** - [Project Link]([https://github.com/patel-vansh1607/open-ai) ![In Progress](https://img.shields.io/badge/In%20Progress-FFA500?style=flat-square&color=FFA500) <br>
+🔹 **GreenCan** - [Project Link]( https://github.com/patel-vansh1607/greencan) ![In Progress](https://img.shields.io/badge/In%20Progress-FFA500?style=flat-square&color=FFA500) <br>
+🔹 **Portfolio - Capstone Project 2** - [Project Link](https://github.com/patel-vansh1607/capstone-project-mod-1)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹 **Calculator App with React** - [Project Link](https://github.com/patel-vansh1607/calculator-app-react)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹 **Calculator App with HTML** - [Project Link](https://github.com/patel-vansh1607/calculator-app) ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹 **HTML Forms** - [Project Link](https://github.com/patel-vansh1607/html-forms)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹 **Flex Living Rental Website** - [Project Link](https://github.com/patel-vansh1607/flex-living-rental-website) ![In Progress](https://img.shields.io/badge/In%20Progress-FFA500?style=flat-square&color=FFA500) <br>
+🔹 **MEDDICAL Hospital** - [Project Link](https://github.com/patel-vansh1607/MEDDICAL-hospital-website) ![In Progress](https://img.shields.io/badge/In%20Progress-FFA500?style=flat-square&color=FFA500) <br>
+🔹 **Grocify Grocery** - [Project Link](https://github.com/patel-vansh1607/grocify-grocery) ![In Progress](https://img.shields.io/badge/In%20Progress-FFA500?style=flat-square&color=FFA500) <br>
+🔹 **Smart Cloud** - [Project Link](https://github.com/patel-vansh1607/smart-cloud) ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹 **Login Dashboard** - [Project Link](https://github.com/patel-vansh1607/login-dashboard) ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹 **Filtro Coffee** - [Project Link](https://github.com/patel-vansh1607/filtro-coffee-website) ![In Progress](https://img.shields.io/badge/In%20Progress-FFA500?style=flat-square&color=FFA500) <br>
+🔹 **CSS Grid & Flexbox** - [Project Link](https://github.com/patel-vansh1607/filtro-coffee-website) ![In Progress](https://img.shields.io/badge/In%20Progress-FFA500?style=flat-square&color=FFA500) <br>
+🔹 **Using SASS** - [Project Link](https://github.com/patel-vansh1607/using-sass-) ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹 **Responsive Web Page** - [Project Link](https://github.com/patel-vansh1607/responsive-web-page) ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹 **Advance CSS and Bootstrap** - [Project Link](https://github.com/patel-vansh1607/adv-css-and-bootstrap) ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹 **Flexbox** - [Project Link](https://github.com/patel-vansh1607/online-exam-flexbox) ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹 **Portfolio - Capstone Project 1** - [Project Link](https://github.com/patel-vansh1607/portfolio-1) ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹 **Navbar Practice** - [Project Link](https://github.com/patel-vansh1607/nav-bar) ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹 **HTML Basics** - [Project Link](https://github.com/patel-vansh1607/week-2-html) ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+
+
+
 
 
