@@ -27,8 +27,8 @@ Below are all my amazing projects that I have done so far. <br>
 🔹 **Appointment Management System** - [Project Link](https://github.com/patel-vansh1607/appointment-management-system)  ![In Progress](https://img.shields.io/badge/In%20Progress-FFA500?style=flat-square&color=FFA500) <br>
 🔹 **QR Code Generator** - [Project Link](https://github.com/patel-vansh1607/qr-code-generator)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
 🔹 **Language Translator** - [Project Link](https://github.com/patel-vansh1607/language-translator)  ![In Progress](https://img.shields.io/badge/In%20Progress-FFA500?style=flat-square&color=FFA500) <br>
-🔹 **Jokes Generator** - [Project Link]((https://github.com/patel-vansh1607/jokes_generator))  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
-🔹 **AI Chatbot** - [Project Link]([https://github.com/patel-vansh1607/open-ai) ![In Progress](https://img.shields.io/badge/In%20Progress-FFA500?style=flat-square&color=FFA500) <br>
+🔹 **Jokes Generator** - [Project Link](https://github.com/patel-vansh1607/jokes_generator)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹 **AI Chatbot** - [Project Link](https://github.com/patel-vansh1607/open-ai) ![In Progress](https://img.shields.io/badge/In%20Progress-FFA500?style=flat-square&color=FFA500) <br>
 🔹 **GreenCan** - [Project Link]( https://github.com/patel-vansh1607/greencan) ![In Progress](https://img.shields.io/badge/In%20Progress-FFA500?style=flat-square&color=FFA500) <br>
 🔹 **Portfolio - Capstone Project 2** - [Project Link](https://github.com/patel-vansh1607/capstone-project-mod-1)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
 🔹 **Calculator App with React** - [Project Link](https://github.com/patel-vansh1607/calculator-app-react)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
