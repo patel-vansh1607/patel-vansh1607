@@ -24,7 +24,7 @@
 Below are all my amazing projects that I have done so far. <br>
 <sub>_Updated as of 25th March 2025_</sub>
 
-🔹 **Appointment Management System** - [Project Link](https://github.com/patel-vansh1607/appointment-management-system)  ![In Progress](https://img.shields.io/badge/In%20Progress-FFA500?style=flat-square&color=FFA500) <br>
+🔹 **Appointment Management System** - [Project Link](https://github.com/patel-vansh1607/appointment-management-system)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
 🔹 **QR Code Generator** - [Project Link](https://github.com/patel-vansh1607/qr-code-generator)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
 🔹 **Language Translator** - [Project Link](https://github.com/patel-vansh1607/language-translator)  ![In Progress](https://img.shields.io/badge/In%20Progress-FFA500?style=flat-square&color=FFA500) <br>
 🔹 **Jokes Generator** - [Project Link](https://github.com/patel-vansh1607/jokes_generator)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
