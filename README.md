@@ -22,7 +22,7 @@
 
 ## 🏆 Projects  
 Below are all my amazing projects that I have done so far. <br>
-<sub>_Updated as of 27th March 2025_</sub>
+<sub>_Updated as of 3rd April 2025_</sub>
 
 🔹 **Appointment Management System** - [Project Link](https://github.com/patel-vansh1607/appointment-management-system)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
 🔹 **QR Code Generator** - [Project Link](https://github.com/patel-vansh1607/qr-code-generator)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
