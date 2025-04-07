@@ -62,5 +62,10 @@ _Click [HERE]() to know more on what April 2025 Code-Fest is_
 
 
 
+### 🧠 Daily Quote from My API
+
+> 🌟 [`Click here for today's quote`](https://quotes-apii.vercel.app/)
+
+
 
 
