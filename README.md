@@ -22,7 +22,7 @@
 
 ## 🏆 Projects  
 Below are all my amazing projects that I have done so far. <br>
-<sub>_Updated as of 4th April 2025_</sub>
+<sub>_Updated as of 7th April 2025_</sub>
 
 🔹 **Appointment Management System** - [Project Link](https://github.com/patel-vansh1607/appointment-management-system)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
 🔹 **QR Code Generator** - [Project Link](https://github.com/patel-vansh1607/qr-code-generator)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
@@ -56,6 +56,9 @@ _Click [HERE]() to know more on what April 2025 Code-Fest is_
 🔹Day 2 ~ 2nd April 2025: **Button Color Changer** - [Project Link](https://github.com/patel-vansh1607/button-color-changer)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
 🔹Day 3 ~ 3rd April 2025: **Character Counter** - [Project Link](https://github.com/patel-vansh1607/character-counter)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
 🔹Day 4 ~ 4th April 2025: **Digital Clock** - [Project Link](https://github.com/patel-vansh1607/digital-clock)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹Day 5 ~ 5th April 2025: **Light-Dark Mode Toogle** - [Project Link](https://github.com/patel-vansh1607/light-dark-mode-toogle)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹Day 6 ~ 6th April 2025: **To-Do List** - [Project Link](https://github.com/patel-vansh1607/to-do-list)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+
 
 
 
