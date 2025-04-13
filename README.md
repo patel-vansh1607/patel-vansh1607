@@ -22,7 +22,7 @@
 
 ## 🏆 Projects  
 Below are all my amazing projects that I have done so far. <br>
-<sub>_Updated as of 8th April 2025_</sub>
+<sub>_Updated as of 13th April 2025_</sub>
 
 🔹 **Appointment Management System** - [Project Link](https://github.com/patel-vansh1607/appointment-management-system)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
 🔹 **QR Code Generator** - [Project Link](https://github.com/patel-vansh1607/qr-code-generator)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
@@ -60,6 +60,12 @@ _Click [HERE]() to know more on what April 2025 Code-Fest is_
 🔹Day 6 ~ 6th April 2025: **To-Do List** - [Project Link](https://github.com/patel-vansh1607/to-do-list)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
 🔹Day 7 ~ 7th April 2025: **Calculator** - [Project Link](https://github.com/patel-vansh1607/calculator-react)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
 🔹Day 8 ~ 8th April 2025: **Grocery List** - [Project Link](https://github.com/patel-vansh1607/grocery-list)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹Day 9 ~ 9th April 2025: **Emoji Search Filter** - [Project Link](https://github.com/patel-vansh1607/emoji-search-filter)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹Day 10 ~ 10th April 2025: **Password Strength Checker** - [Project Link](https://github.com/patel-vansh1607/password-strength-checker)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹Day 11 ~ 11th April 2025: **Tip Calculator** - [Project Link](https://github.com/patel-vansh1607/tip-calculator)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹Day 12 ~ 12th April 2025: **GTimer Countdown** - [Project Link](https://github.com/patel-vansh1607/timer-countdown)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+🔹Day 13 ~ 13th April 2025: **FAQ Accordiont** - [Project Link](https://github.com/patel-vansh1607/faq-accordion)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
+
 
 
 
