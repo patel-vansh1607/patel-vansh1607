@@ -50,7 +50,7 @@ Below are all my amazing projects that I have done so far. <br>
 🔹 **HTML Basics** - [Project Link](https://github.com/patel-vansh1607/week-2-html) ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
 
 **April 2025 Code-Fest Projects** <br>
-_Click [HERE]() to know more on what April 2025 Code-Fest is_
+_Click [HERE](https://github.com/patel-vansh1607/code-fest) to know more on what April 2025 Code-Fest is_
 
 🔹Day 1 ~ 1st April 2025: **Counter App** - [Project Link](https://github.com/patel-vansh1607/counter-app)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
 🔹Day 2 ~ 2nd April 2025: **Button Color Changer** - [Project Link](https://github.com/patel-vansh1607/button-color-changer)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
@@ -65,16 +65,3 @@ _Click [HERE]() to know more on what April 2025 Code-Fest is_
 🔹Day 11 ~ 11th April 2025: **Tip Calculator** - [Project Link](https://github.com/patel-vansh1607/tip-calculator)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
 🔹Day 12 ~ 12th April 2025: **GTimer Countdown** - [Project Link](https://github.com/patel-vansh1607/timer-countdown)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
 🔹Day 13 ~ 13th April 2025: **FAQ Accordiont** - [Project Link](https://github.com/patel-vansh1607/faq-accordion)  ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square&color=00C853) <br>
-
-
-
-
-
-
-### 🧠 Daily Quote from My API
-
-> 🌟 [`Click here for today's quote`](https://quotes-apii.vercel.app/)
-
-
-
-
